@@ -1,6 +1,6 @@
 import java.util.Scanner;
 /**
- * Simple I/O project using Objects
+ * Simple I/O project using input and output and scanner and private methods and algorithms for prime numbers
  * @version 09.23.2022
  * @author hlevinson
  */
