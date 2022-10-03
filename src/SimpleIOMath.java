@@ -12,7 +12,7 @@ public class SimpleIOMath {
 
     /**
      * Prompts user to answer their name, age, and favorite number that is stated by the computer
-     * "Sings" song user
+     * "Sings" the song to the user
      */
     public void promptUser() {
         Scanner in = new Scanner(System.in);
