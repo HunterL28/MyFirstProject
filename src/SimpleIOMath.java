@@ -39,7 +39,7 @@ public class SimpleIOMath {
      */
     public void printInfo() {
         System.out.println("Your name is: " + name);
-        System.out.println("Your age is: " + (age - 1));
+        System.out.println("Your age is: " + age);
         System.out.println("At your next birthday, you will turn " + (age + 1) + ".");
         System.out.println("The first prime factor of " + age + " is: " + smallestPrimeFactor(age));
         System.out.println("Your favorite number is: " + favNumber);
